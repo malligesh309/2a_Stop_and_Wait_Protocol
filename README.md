@@ -38,9 +38,12 @@ while True:
 ```
 ## OUTPUT:
 ### CLIENT:
-![image](https://github.com/23004205/2a_Stop_and_Wait_Protocol/assets/138971114/23fd45f1-f9c0-4f9e-88e6-93726a9149c7)
+![image](https://github.com/malligesh309/2a_Stop_and_Wait_Protocol/assets/140491043/71e3744a-57d0-4489-9381-0075cd2c2413)
+
 ### SERVER:
-![image](https://github.com/23004205/2a_Stop_and_Wait_Protocol/assets/138971114/42529f82-823f-4f80-914d-16e5c556c173)
+
+![Screenshot 2024-03-06 155547](https://github.com/malligesh309/2a_Stop_and_Wait_Protocol/assets/140491043/86b8ca71-d616-4676-9395-70fbcd8d91ca)
+
 
 ## RESULT
 Thus,python program to perform stop and wait protocol was successfully executed Thus, python program to perform stop and wait protocol was successfully executed.
